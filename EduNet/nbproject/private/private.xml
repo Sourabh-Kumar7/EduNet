@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/ViewQueryJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/ProfessorEngJPanel.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/ProfessorFeedbackJPanel.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/ViewFeedBackRatingJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/thirdpartyauthority/ThirdPartyDegreeAuthorityPortal.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/validationUtil.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/StudentPortalJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/CreateQueryFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/CustomExceptions.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/TranscriptGenerator.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/EarningMngJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/Professor.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/AccountSecurityJPanel.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/admin/ViewCourseJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/ViewCourseDetailsJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/GraphPlotter.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/StudentEngJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/AccSecurityJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/admin/ListCourseJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/ManageCourseJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/RequestForTranscriptJPanel.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/HashingUtil.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/RegisterCoursesJPanel.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/CreateCourseJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/ProfessorPortalJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/ViewUserDetailsJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/LoginFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/RequestForDegreeJPanel.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/StudentFeedback.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/CourseProgress.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/ViewUserDetailJPanel.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/DataGenerator.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/MainApp.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/Student.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/SignUpPageJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/thirdpartyauthority/DegreeReqViewJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/admin/ListUserJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/DataManager.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/StudentCourseProgress.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/ManageEnrolledCoursesJPanel.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/ViewFeedbackJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/professor/ViewQueryJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/User.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/admin/ViewUserJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/StudentQuery.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/admin/AdminPortalJFrame.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/Course.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/model/PasswordGenerator.java</file>
+            <file>file:/Users/sourabhkumar/Documents/NEU/Sem-1/AED/Assignments/midSem/assignment-3-edunet/EduNet/src/ui/student/CourseProgressFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
