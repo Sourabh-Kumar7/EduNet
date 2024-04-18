@@ -1,6 +1,6 @@
 # Edunet Portal
 
-Edunet Portal is a simple Java-based educational platform for managing student and professor data, student engagement, and course-related queries.
+Edunet Portal is a Java-based educational platform for managing student and professor data, student engagement, and course-related queries.
 
 ## Table of Contents
 
